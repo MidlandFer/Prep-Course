@@ -35,32 +35,42 @@ function suma(x, y) {
   // "x" e "y" son números
   // Suma "x" e "y" juntos y devuelve el valor
   // Tu código:
-      
+      var x = 1;
+      var y = 19;
+      x + y;
 }
 
 function resta(x, y) {
   // Resta "y" de "x" y devuelve el valor
   // Tu código:
-  
+  var x = 19;
+  var y = 1;
+  x - y;
 }
 
 function multiplica(x, y) {
   // Multiplica "x" por "y" y devuelve el valor
   // Tu código:
-  
+  var x = 1;
+  var y = 10;
+  x * y;
 }
 
 function divide(x, y) {
   // Divide "x" entre "y" y devuelve el valor
   // Tu código:
-  
+  var x = 1;
+  var y = 10;
+  x / y;
 }
 
 function sonIguales(x, y) {
   // Devuelve "true" si "x" e "y" son iguales
   // De lo contrario, devuelve "false"
   // Tu código:
-  
+  var x = 1;
+  var y = 1;
+  If x==
 }
 
 function tienenMismaLongitud(str1, str2) {
